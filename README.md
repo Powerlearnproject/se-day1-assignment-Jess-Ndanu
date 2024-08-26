@@ -6,24 +6,26 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 software engineering applies engineering principles, methods and tools to develop and maintain high quality software systems.
+
 Software Engineering has ensured Systematic Development: By applying structured processes, software engineering ensures that software is developed systematically, minimizing errors and enhancing quality.This means that the less the errors the better the funvtionality of the system
 Testing and Maintenance: Through rigorous testing and ongoing maintenance, software engineering ensures that software remains reliable, secure, and up-to-date, which is critical for user trust and satisfaction.
 Software engineering has asisted in Efficient Resource Management: Software engineers design systems that can handle increasing loads without sacrificing performance, ensuring that applications can grow with user demand.
 Scalable Architectures: Scalable software architectures allow businesses to expand their operations and handle more users, data, and transactions as they grow.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 The Advent of High-Level Programming Languages (1950s-1960s)
 Before high-level programming languages, software was written in machine code or assembly language, which was tedious and error-prone. The introduction of high-level languages like FORTRAN (1957) and COBOL (1959) revolutionized software development by making it more accessible and efficient. These languages allowed developers to write code that was closer to human language, which could then be translated into machine code by compilers.
 
-2. The Birth of Structured Programming (1960s-1970s)
+The Birth of Structured Programming (1960s-1970s)
 Structured programming introduced the concept of breaking down a program into smaller, manageable sections or modules. This approach was popularized by languages like ALGOL and later Pascal. The key principles included the use of loops, conditionals, and subroutines, which made code more readable, maintainable, and less prone to errors. This paradigm shift laid the groundwork for modern programming practices.
 
-3. The Rise of Object-Oriented Programming (1980s-1990s)
+ The Rise of Object-Oriented Programming (1980s-1990s)
 Object-oriented programming (OOP) brought a new way of thinking about software design. Languages like Smalltalk, C++, and later Java and Python emphasized the use of “objects” – encapsulated data and behavior. OOP principles such as inheritance, polymorphism, and encapsulation allowed for more reusable and scalable code. This paradigm became the foundation for many modern software systems and applications.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
- Requirement Gathering and Analysis
+ 1.Requirement Gathering and Analysis
 Purpose: This initial phase involves understanding and documenting the software’s requirements. Stakeholders, including clients, end-users, and developers, collaborate to define the system’s functionality, performance, and constraints.
 Deliverables: A detailed requirements specification document that serves as the foundation for all subsequent phases.
 2. System Design
@@ -43,6 +45,7 @@ Purpose: Post-deployment, the software enters the maintenance phase, where it is
 Deliverables: Maintenance updates, patches, bug fixes, and potentially new versions of the software.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall Methodology
 Characteristics:
 Linear and Sequential: The project progresses through a series of defined phases: Requirements, Design, Implementation, Testing, Deployment, and Maintenance.
